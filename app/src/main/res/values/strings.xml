@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ErrorHandlingCleanArch</string>
+    <string name="error_invalid_email">This is not a valid email</string>
+    <string name="successfully_submitted">Successfully submitted</string>
+</resources>
